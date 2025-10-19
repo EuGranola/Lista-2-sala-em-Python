@@ -1,0 +1,5 @@
+a = int(input("Insira o valor de A:"))
+b = int(input("Insira o valor de B:"))
+c = int(input("Insira o valor de C:"))
+valores_ordenados = sorted([a, b, c])
+print ("Valores em ordem crescente:", valores_ordenados)
